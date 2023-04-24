@@ -1,0 +1,10 @@
+#movie{
+  .movie{
+    display: flex;
+    overflow-x: auto;
+    //background: #a1b4c2;
+    &--card{
+       margin: 20px;
+    }
+  }
+}

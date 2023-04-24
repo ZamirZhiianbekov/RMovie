@@ -1,0 +1,26 @@
+@import "style/header";
+@import "style/footer";
+@import "style/popular";
+@import "style/movieDetails";
+@import "style/actorsCard";
+@import "style/movie";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+button  {
+    border: none;
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
